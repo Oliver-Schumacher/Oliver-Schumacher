@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Oliver-Schumacher
+- 👀 I’m interested in app- and web development
+- 💻 I’m currently working with React-Native
